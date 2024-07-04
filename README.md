@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-📕 Estudiante de Ingeniería Informática <br>🌱 Actualmente ampliando conocimiento de programación sobre BackEnd<br>🚀 Proyectos innovadores que impulsen el aprendizaje y conocimientos<br> 💡 Proyectos personales en desarrollo de software y videojuegos
+📕 Estudiante de Ingeniería Informática <br>🚀 Proyectos innovadores que impulsen el aprendizaje y conocimientos<br> 💡 Proyectos personales en desarrollo de software y videojuegos
 
 
 # 💻 Habilidades:
